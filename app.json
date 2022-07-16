@@ -1,0 +1,6 @@
+{
+  "name": "reduxApp",
+  "splash": {
+    "image": "./src/assets/splash.png"
+  }
+}
